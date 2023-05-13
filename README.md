@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter,Vue js and Spring boot**
 
-- 💬 Ask me about **Laravel,java and**
+- 💬 Ask me about **js,java,spring boot,laravel,vue js**
 
 - 📫 How to reach me **kpidibadavid1@gmail.com**
 
