@@ -14,7 +14,6 @@
 - 💬 Ask me about **js,java,spring boot,laravel,vue js**
 
 - 📫 How to reach me **kpidibadavid1@gmail.com**
-
 [![committers.top badge](https://user-badge.committers.top/togo/USERNAME.svg)](https://user-badge.committers.top/togo/kpidiba)
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
