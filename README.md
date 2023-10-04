@@ -31,6 +31,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kpidiba&show_icons=true&locale=en&layout=compact" alt="kpidiba" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kpidiba&show_icons=true&locale=en" alt="kpidiba" /></p>
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=kpidiba&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kpidiba&" alt="kpidiba" /></p>
 
