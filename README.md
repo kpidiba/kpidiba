@@ -15,6 +15,7 @@
 
 - 📫 How to reach me **kpidibadavid1@gmail.com**
 [![committers.top badge](https://user-badge.committers.top/togo/USERNAME.svg)](https://user-badge.committers.top/togo/kpidiba)
+[![https://www.holopin.io/@kpidiba](https://holopin.me/kpidiba)](https://holopin.io/@kpidiba)
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
