@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/fkpidiba" target="blank"><img src="https://img.shields.io/twitter/follow/fkpidiba?logo=twitter&style=for-the-badge" alt="fkpidiba" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce,chat,money currenccy and school application**
+- 🔭 I’m currently working on **school and ecommerce application**
 
-- 🌱 I’m currently learning **Flutter,Vue js and Spring boot**
+- 🌱 I’m currently learning **Nuxt JS**
 
-- 💬 Ask me about **js,java,spring boot,laravel,vue js**
+- 💬 Ask me about **js,ts,java,spring boot,laravel,angular,vue js**
 
 - 📫 How to reach me **kpidibadavid1@gmail.com**
 [![committers.top badge](https://user-badge.committers.top/togo/USERNAME.svg)](https://user-badge.committers.top/togo/kpidiba)
