@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm KPIDIBA D. F.-David</h1>
 <h3 align="center">A passionate Software engineer from Togo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kpidiba&label=Profile%20views&color=0e75b6&style=flat" alt="kpidiba" /> </p>
-
+## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kpidiba" alt="kpidiba" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/fkpidiba" target="blank"><img src="https://img.shields.io/twitter/follow/fkpidiba?logo=twitter&style=for-the-badge" alt="fkpidiba" /></a> </p>
@@ -32,8 +31,6 @@
 [![Tiger-github's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpidiba&show=prs_merged_percentage&show_icons=true&theme=tokyonight&rank_icon=github&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kpidiba'&theme=radical&hide_border=false&card_width=500px)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kpidiba&no-bg=true$&rank=-B,-C,-D,-?)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
