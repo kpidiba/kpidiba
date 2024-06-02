@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **school and ecommerce application**
 
-- 🌱 I’m currently learning **Nuxt JS**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **js,ts,java,spring boot,laravel,angular,vue js**
 
