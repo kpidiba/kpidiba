@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **js,ts,java,spring boot,laravel,angular,vue js**
+- 💬 Ask me about **java,spring boot,laravel,angular**
 
 - 📫 How to reach me **kpidibadavid1@gmail.com**
 
