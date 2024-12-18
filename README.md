@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=7A92B8&height=100&section=header&width=100%)
+
 <h1 align="center">Hi 👋, I'm KPIDIBA D. F.-David</h1>
 <h3 align="center">A passionate Software Engineer from Togo 🚀</h3>
 
@@ -82,3 +84,5 @@
 <div align="center">
   <a href="https://github.com/kpidiba"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpidiba&theme=tokyonight" alt="Profile Details" /></a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer">
