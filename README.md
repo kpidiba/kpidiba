@@ -50,20 +50,6 @@
 
 </div>
 
-<p align="left">
-  <a href="https://dev.to/dprogrammer" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" />
-  </a>
-  <a href="https://github.com/kpidiba" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/david-kpidiba-3071601a4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
-  </a>
-  <a href="https://portfolio.dprogrammer.dev" target="_blank">
-    <img src="https://www.svgrepo.com/show/501060/web.svg" alt="Portfolio" height="40" />
-  </a>
-</p>
 
 ---
 
