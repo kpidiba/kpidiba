@@ -41,7 +41,9 @@
 <div align="left">
 
   [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-kpidiba-3071601a4/)
-
+ [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpidibadavid1@gmail.com)
+[![LeetCode user jeturgavli](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjeturgavli&logo=leetcode&logoColor=yellow)](https://leetcode.com/kpidiba/)
+  
 </div>
 
 </div>
