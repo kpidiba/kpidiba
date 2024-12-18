@@ -25,8 +25,6 @@
 - **Flutter**: Diving into cross-platform mobile app development for seamless and high-performance user experiences 📱✨
 - **AI**: Exploring how to integrate machine learning models into applications to enhance functionality, such as predictive analytics, recommendation systems, or intelligent automation 🤖💡
 
-# 
-
 ---
 
 ## 📱 Connect With Me
@@ -54,7 +52,7 @@
 
 ---
 
-## ⚙️ Languages & Tools
+<h1 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b> Languages & Tools:</b></h1>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
