@@ -14,9 +14,10 @@
 
 ### 🔭 Currently Working On
 
-- **🌟 School and E-commerce Applications**
-- **💡 Open-source Projects**  
-- Collaborating with awesome developers worldwide 🌍  
+- **🌟 School and E-commerce Applications**: Building platforms to streamline education and online shopping experiences 🏫🛒
+- **💡 Open-source Projects**: Collaborating with developers worldwide to create impactful tools 🌍
+- **💬 Chat Application**: Developing a real-time chat app with features like group messaging, file sharing, and AI-powered message suggestions 💻📱
+- **📊 AI-Driven Analytics Dashboard**: Designing a dashboard to visualize insights using AI for smarter business decisions 📈🤖
 
 ### 🌱 Currently Learning
 
@@ -26,8 +27,8 @@
 
 ### 💬 Ask Me About
 
-- Backend Frameworks: **Java (Spring Boot)**, **Laravel**, **PHP**  
-- Frontend Frameworks: **Angular**, **React**, **Vue.js**  
+- Backend Frameworks: **Spring Boot**, **Laravel** 
+- Frontend Frameworks: **Angular**
 
 ### 📫 Reach Me At:
 
@@ -38,8 +39,18 @@
 ## 📱 Connect With Me
 
 <p align="left">
-  <a href="https://dev.to/dprogrammer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" /></a>
-  <a href="https://twitter.com/fkpidiba" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" /></a>
+  <a href="https://dev.to/dprogrammer" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" />
+  </a>
+  <a href="https://github.com/kpidiba" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/david-kpidiba-3071601a4/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://portfolio.dprogrammer.dev" target="_blank">
+    <img src="https://www.svgrepo.com/show/501060/web.svg" alt="Portfolio" height="40" />
+  </a>
 </p>
 
 ---
