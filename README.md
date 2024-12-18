@@ -3,7 +3,7 @@
 <div align="center">
 <img title="" src="./gifs/main.gif" alt="MasterHead" data-align="center">
 </div>
-<h1 align="center">Hi 👋, I'm KPIDIBA D. F.-David</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" width="25">, I'm KPIDIBA D. F.-David</h1>
 <h3 align="center">A passionate Software Engineer from Togo 🚀</h3>
 
 <div align="center">
@@ -37,6 +37,14 @@
 ---
 
 ## 📱 Connect With Me
+
+<div align="left">
+  
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/jeturgavli)
+  
+</div>
+
+</div>
 
 <p align="left">
   <a href="https://dev.to/dprogrammer" target="_blank">
@@ -105,8 +113,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/kpidiba"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpidiba&theme=tokyonight" alt="Profile Details" /></a>
-</div>
+![](https://github.com/kpidiba/snk/raw/output/github-contribution-grid-snake.svg)
 
 <img title="" src="./images/footer.svg" alt="">
