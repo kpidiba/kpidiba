@@ -22,6 +22,7 @@
 
 - **Next.js**: Expanding my front-end skills to create stunning UI/UX 🚀
 - **Flutter**: Diving into cross-platform mobile app development for seamless and high-performance user experiences 📱✨
+- **AI**: Exploring how to integrate machine learning models into applications to enhance functionality, such as predictive analytics, recommendation systems, or intelligent automation 🤖💡
 
 ### 💬 Ask Me About
 
