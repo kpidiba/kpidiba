@@ -39,9 +39,9 @@
 ## 📱 Connect With Me
 
 <div align="left">
-  
-  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/jeturgavli)
-  
+
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-kpidiba-3071601a4/)
+
 </div>
 
 </div>
