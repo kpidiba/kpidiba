@@ -1,6 +1,7 @@
 ![header](./images/header.svg)
+<div align="center">
 <img title="" src="./gifs/main.gif" alt="MasterHead" data-align="center">
-
+</div>
 <h1 align="center">Hi 👋, I'm KPIDIBA D. F.-David</h1>
 <h3 align="center">A passionate Software Engineer from Togo 🚀</h3>
 
