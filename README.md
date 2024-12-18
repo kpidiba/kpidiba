@@ -8,8 +8,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kpidiba&style=flat-square&color=blue" alt="Profile Views" />
-  <a href="https://twitter.com/fkpidiba"><img src="https://img.shields.io/twitter/follow/fkpidiba?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
-  <a href="https://github.com/kpidiba"><img src="https://img.shields.io/github/followers/kpidiba?style=for-the-badge" alt="GitHub Followers" /></a>
 </div>
 
 ---
@@ -22,7 +20,8 @@
 
 ### 🌱 Currently Learning
 
-- **React.js**: Expanding my front-end skills to create stunning UI/UX 🚀  
+- **Next.js**: Expanding my front-end skills to create stunning UI/UX 🚀
+- **Flutter**: Diving into cross-platform mobile app development for seamless and high-performance user experiences 📱✨
 
 ### 💬 Ask Me About
 
