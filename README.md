@@ -72,6 +72,8 @@
     <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" title="CSS"></code
 > </div>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,angular,vite,next,firebase,flutter,laravel,mysql,postgres,sqlite,php,spring,java,python,markdown,github,git,vscode,docker,postman,linux,jest,styledcomponents,stackoverflow&perline=13)](#)
+
 ---
 
 ## 📊 GitHub Stats
