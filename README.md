@@ -25,14 +25,7 @@
 - **Flutter**: Diving into cross-platform mobile app development for seamless and high-performance user experiences 📱✨
 - **AI**: Exploring how to integrate machine learning models into applications to enhance functionality, such as predictive analytics, recommendation systems, or intelligent automation 🤖💡
 
-### 💬 Ask Me About
-
-- Backend Frameworks: **Spring Boot**, **Laravel** 
-- Frontend Frameworks: **Angular**
-
-### 📫 Reach Me At:
-
-- **📧 Email**: kpidibadavid1@gmail.com  
+# 
 
 ---
 
@@ -46,6 +39,7 @@
   [![HackerRank user KPIDIBA](https://img.shields.io/badge/HackerRank-Profile-blue?logo=hackerrank)](https://www.hackerrank.com/kpidibadavid1)
 [![Codewars user KPIDIBA](https://www.codewars.com/users/kpidiba/badges/small)](https://www.codewars.com/users/kpidiba)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=internet-explorer)](#)
+
 </div>
 
 </div>
