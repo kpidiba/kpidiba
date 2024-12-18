@@ -1,4 +1,5 @@
 ![header](./images/header.svg)
+
 <div align="center">
 <img title="" src="./gifs/main.gif" alt="MasterHead" data-align="center">
 </div>
