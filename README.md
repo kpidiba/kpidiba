@@ -60,8 +60,10 @@
 
 ## 📊 GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kpidiba)](https://git.io/streak-stats)
+
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kpidiba&theme=tokyonight" alt="GitHub Streak"  />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </div>
 
 
