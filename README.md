@@ -62,7 +62,7 @@
 
 <div align="center">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=kpidiba&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kpidiba&theme=tokyonight" alt="GitHub Streak"  />
+  
 </div>
 
 ---
