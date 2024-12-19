@@ -40,8 +40,6 @@
 
 </div>
 
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
