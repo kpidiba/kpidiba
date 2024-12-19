@@ -54,7 +54,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,angular,vite,next,firebase,flutter,laravel,mysql,postgres,sqlite,php,spring,java,python,markdown,github,git,vscode,docker,postman,linux,jest,styledcomponents,stackoverflow&perline=13)](#)
 
----
+----
 
 ## 📊 GitHub Stats
 
