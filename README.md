@@ -62,9 +62,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kpidiba)](https://git.io/streak-stats)
 
-<div>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</div>
+
 
 
 
