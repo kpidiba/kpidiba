@@ -1,90 +1,97 @@
-name: release
+name: GitHub Snake Game
+
+
 
 on:
+
+  # Schedule the workflow to run daily at midnight UTC
+
+  schedule:
+
+    - cron: "0 0 * * *"
+
+
+
+  # Allow manual triggering of the workflow
+
   workflow_dispatch:
-    inputs:
-      version:
-        description: |
-          New version for the release
-          If the version is in format <major>.<minor>.<patch> a new release is emitted.
-          Otherwise for other format ( for example <major>.<minor>.<patch>-beta.1 ), a prerelease is emitted.
-        default: "0.0.1"
-        required: true
-        type: string
-      description:
-        description: "Version description"
-        type: string
+
+
+
+  # Trigger the workflow on pushes to the main branch
+
+  push:
+
+    branches:
+
+      - main
+
+
 
 jobs:
-  release:
+
+  generate:
+
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
+    timeout-minutes: 10
+
+
+
     steps:
-      - uses: actions/checkout@v4
 
-      - uses: docker/setup-qemu-action@v2
+      # Step 1: Checkout the repository
 
-      - uses: docker/setup-buildx-action@v2
+      - name: Checkout Repository
 
-      - uses: docker/login-action@v2
+        uses: actions/checkout@v3
+
+
+
+      # Step 2: Generate the snake animations
+
+      - name: Generate GitHub Contributions Snake Animations
+
+        uses: Platane/snk@v3
+
         with:
-          username: kpidibadavid1@gmail.com
-          password: eW*^*,r?:xd3zF2
 
-      - name: build and publish the docker image
-        uses: docker/build-push-action@v4
-        id: docker-build
-        with:
-          push: true
-          tags: |
-            platane/snk:${{ github.sha }}
-            platane/snk:${{ github.event.inputs.version }}
+          # GitHub username to generate the animation for
 
-      - name: update action.yml to point to the newly created docker image
-        run: |
-          sed -i "s/image: .*/image: docker:\/\/platane\/snk@${{ steps.docker-build.outputs.digest }}/" action.yml
+          github_user_name: ${{ github.repository_owner }}
 
-      - uses: actions/setup-node@v3
-        with:
-          cache: yarn
-          node-version: 20
 
-      - name: build svg-only action
-        run: |
-          yarn install --frozen-lockfile
-          npm run build:action
-          rm -r svg-only/dist
-          mv packages/action/dist svg-only/dist
 
-      - name: bump package version
-        run: yarn version --no-git-tag-version --new-version ${{ github.event.inputs.version }}
+          # Define the output files and their configurations
 
-      - name: push new build, tag version and push
-        id: push-tags
-        run: |
-          VERSION=${{ github.event.inputs.version }}
+          outputs: |
 
-          git config --global user.email "bot@platane.me"
-          git config --global user.name "release bot"
-          git add package.json svg-only/dist action.yml
-          git commit -m "📦 $VERSION"
-          git tag v$VERSION
-          git push origin main --tags
+            dist/github-snake.svg
 
-          if [[ "$VERSION" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
-            git tag v$( echo $VERSION | cut -d. -f 1-1 )
-            git tag v$( echo $VERSION | cut -d. -f 1-2 )
-            git push origin --tags --force
-            echo "prerelease=false" >> $GITHUB_OUTPUT
-          else 
-            echo "prerelease=true" >> $GITHUB_OUTPUT
-          fi
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: ncipollo/release-action@v1.12.0
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
         env:
+
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+      # Step 3: Deploy the generated files to the 'output' branch
+
+      - name: Deploy to Output Branch
+
+        uses: peaceiris/actions-gh-pages@v3
+
         with:
-          tag: v${{ github.event.inputs.version }}
-          body: ${{ github.event.inputs.description }}
-          prerelease: ${{ steps.push-tags.outputs.prerelease }}
+
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          publish_dir: ./dist
+
+          publish_branch: output
+
+          # Optionally, you can set a custom commit message
+
+          commit_message: "Update snake animation [skip ci]"
