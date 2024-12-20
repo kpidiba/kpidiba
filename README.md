@@ -8,7 +8,11 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kpidiba&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://user-badge.committers.top/togo/kpidiba">
+    <img src="https://user-badge.committers.top/togo/kpidiba.svg" alt="Committers Badge" />
+  </a>
 </div>
+
 
 ---
 
